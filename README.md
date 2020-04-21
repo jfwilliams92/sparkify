@@ -21,4 +21,13 @@ For this project we were tasked with completing:
 The main items of interest here are the two Jupyter notebooks, one of which was used to develop and explore in local mode on the smaller dataset.
 The other notebook is an AWS EMR notebook that processed the full 12GB dataset. 
 These notebooks contain all of the data exploration, analysis, and article recommendations as required by the project.
-Finally, there is `wrangling.py`, which contains all the consolidated code to read in the dataset, create features, and train a model.
+
+## Libraries used
+This project is dependent on:
+pyspark
+pandas
+numpy==1.18.3
+pyarrow==0.14.1
+pyyaml
+ua-parser
+user-agents
