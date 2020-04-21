@@ -1,5 +1,7 @@
 # Sparkify - Predicting Churn from User Behavior
 
+- My blog post walking through the project and discussing findings can be found <a href="https://medium.com/@jfw_4978/creating-meaningful-features-from-raw-events-6dc6017518b7">here</a>
+
 ## Background and Motivation
 
 For the Udacity Data Science NanoDegree, we were asked to complete a Capstone project to demonstrate our capability of handling and end to end machine learning project.
