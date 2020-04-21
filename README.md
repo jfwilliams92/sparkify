@@ -24,10 +24,10 @@ These notebooks contain all of the data exploration, analysis, and article recom
 
 ## Libraries used
 This project is dependent on:
-pyspark
-pandas
-numpy==1.18.3
-pyarrow==0.14.1
-pyyaml
-ua-parser
-user-agents
+ - pyspark
+ - pandas
+ - numpy==1.18.3
+ - pyarrow==0.14.1
+ - pyyaml
+ - ua-parser
+ - user-agents
