@@ -1,7 +1,7 @@
 pyspark
 pandas
 numpy==1.18.3
-pyarrow==0.14.1
+pyarrow==0.15.1
 pyyaml
 ua-parser
 user-agents
